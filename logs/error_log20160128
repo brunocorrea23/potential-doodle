@@ -1,0 +1,40 @@
+[Thu Jan 28 13:40:12 2016] [error] [client 161.24.98.2] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/favicon.ico
+[Thu Jan 28 13:40:12 2016] [error] [client 161.24.98.2] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/favicon.ico
+[Thu Jan 28 13:41:57 2016] [error] [client 161.24.98.2] Directory index forbidden by Options directive: /home/storage/4/a5/51/barbaslobby/public_html/
+[Thu Jan 28 13:42:25 2016] [error] [client 161.24.98.2] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/index.php
+[Thu Jan 28 13:47:17 2016] [error] [client 161.24.98.2] Directory index forbidden by Options directive: /home/storage/4/a5/51/barbaslobby/public_html/
+[Thu Jan 28 13:47:39 2016] [error] [client 161.24.98.2] Directory index forbidden by Options directive: /home/storage/4/a5/51/barbaslobby/public_html/
+[Thu Jan 28 13:47:41 2016] [error] [client 161.24.98.2] Directory index forbidden by Options directive: /home/storage/4/a5/51/barbaslobby/public_html/
+[Thu Jan 28 13:48:37 2016] [error] [client 161.24.98.2] Directory index forbidden by Options directive: /home/storage/4/a5/51/barbaslobby/public_html/
+[Thu Jan 28 13:48:47 2016] [error] [client 161.24.98.2] Directory index forbidden by Options directive: /home/storage/4/a5/51/barbaslobby/public_html/
+[Thu Jan 28 13:52:32 2016] [error] [client 161.24.98.2] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/login.php, referer: http://barbaslobby.com.br/
+[Thu Jan 28 13:59:52 2016] [error] [client 161.24.98.2] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/phpmyadmin
+[Thu Jan 28 14:13:20 2016] [error] [client 161.24.98.2] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/storage/4/a5/51/barbaslobby/public_html/conecta_banco.inc on line 7, referer: http://barbaslobby.com.br/
+[Thu Jan 28 14:13:20 2016] [error] [client 161.24.98.2] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/storage/4/a5/51/barbaslobby/public_html/login.php on line 8, referer: http://barbaslobby.com.br/
+[Thu Jan 28 14:13:20 2016] [error] [client 161.24.98.2] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/storage/4/a5/51/barbaslobby/public_html/login.php on line 9, referer: http://barbaslobby.com.br/
+[Thu Jan 28 14:13:20 2016] [error] [client 161.24.98.2] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/storage/4/a5/51/barbaslobby/public_html/login.php on line 24, referer: http://barbaslobby.com.br/
+[Thu Jan 28 14:13:46 2016] [error] [client 161.24.98.2] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/storage/4/a5/51/barbaslobby/public_html/conecta_banco.inc on line 7, referer: http://barbaslobby.com.br/index.php
+[Thu Jan 28 14:13:46 2016] [error] [client 161.24.98.2] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/storage/4/a5/51/barbaslobby/public_html/login.php on line 8, referer: http://barbaslobby.com.br/index.php
+[Thu Jan 28 14:13:46 2016] [error] [client 161.24.98.2] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/storage/4/a5/51/barbaslobby/public_html/login.php on line 9, referer: http://barbaslobby.com.br/index.php
+[Thu Jan 28 14:13:46 2016] [error] [client 161.24.98.2] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/storage/4/a5/51/barbaslobby/public_html/login.php on line 24, referer: http://barbaslobby.com.br/index.php
+[Thu Jan 28 14:15:48 2016] [error] [client 161.24.98.2] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/storage/4/a5/51/barbaslobby/public_html/conecta_banco.inc on line 7, referer: http://barbaslobby.com.br/index.php
+[Thu Jan 28 14:15:48 2016] [error] [client 161.24.98.2] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/storage/4/a5/51/barbaslobby/public_html/login.php on line 8, referer: http://barbaslobby.com.br/index.php
+[Thu Jan 28 14:15:48 2016] [error] [client 161.24.98.2] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/storage/4/a5/51/barbaslobby/public_html/login.php on line 9, referer: http://barbaslobby.com.br/index.php
+[Thu Jan 28 14:15:48 2016] [error] [client 161.24.98.2] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/storage/4/a5/51/barbaslobby/public_html/login.php on line 24, referer: http://barbaslobby.com.br/index.php
+[Thu Jan 28 14:16:43 2016] [error] [client 161.24.98.2] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/incluir.php, referer: http://barbaslobby.com.br/principal.php
+[Thu Jan 28 14:16:46 2016] [error] [client 161.24.98.2] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/logout.php, referer: http://barbaslobby.com.br/principal.php
+[Thu Jan 28 14:16:50 2016] [error] [client 161.24.98.2] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/logout.php, referer: http://barbaslobby.com.br/principal.php
+[Thu Jan 28 14:21:14 2016] [error] [client 189.40.91.244] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/favicon.ico, referer: http://barbaslobby.com.br/
+[Thu Jan 28 14:21:31 2016] [error] [client 189.40.91.244] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/verificar_disponibilidade.php, referer: http://barbaslobby.com.br/
+[Thu Jan 28 14:26:52 2016] [error] [client 161.24.98.2] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/cadastrar.php, referer: http://barbaslobby.com.br/index.php
+[Thu Jan 28 14:30:48 2016] [error] [client 161.24.98.2] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/favicon.ico, referer: http://barbaslobby.com.br/
+[Thu Jan 28 14:36:39 2016] [error] [client 66.249.88.194] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/favicon.ico, referer: http://barbaslobby.com.br/
+[Thu Jan 28 14:40:03 2016] [error] [client 179.191.81.14] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/favicon.ico, referer: http://barbaslobby.com.br/
+[Thu Jan 28 14:41:18 2016] [error] [client 179.191.81.14] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/incluir.php, referer: http://barbaslobby.com.br/principal.php
+[Thu Jan 28 14:41:23 2016] [error] [client 179.191.81.14] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/incluir.php, referer: http://barbaslobby.com.br/principal.php
+[Thu Jan 28 14:44:34 2016] [error] [client 179.191.81.14] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/periodo.php, referer: http://barbaslobby.com.br/principal.php
+[Thu Jan 28 15:14:33 2016] [error] [client 161.24.98.2] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/favicon.ico, referer: http://barbaslobby.com.br/
+[Thu Jan 28 15:27:56 2016] [error] [client 161.24.98.2] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/incluir.php, referer: http://barbaslobby.com.br/principal.php
+[Thu Jan 28 15:35:37 2016] [error] [client 189.55.120.105] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/favicon.ico, referer: http://barbaslobby.com.br/
+[Thu Jan 28 16:03:45 2016] [error] [client 161.24.98.2] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/incluir.php, referer: http://barbaslobby.com.br/principal.php
+[Thu Jan 28 16:16:12 2016] [error] [client 189.55.120.106] File does not exist: /home/storage/4/a5/51/barbaslobby/public_html/favicon.ico, referer: http://barbaslobby.com.br/
